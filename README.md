@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">My name is Egor, I work as a mobile developer 👨‍💻, I have been working remotely since 2023 🚀</div>  

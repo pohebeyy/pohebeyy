@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">My name is Egor, I work as a mobile developer 👨‍💻, I have been working remotely since 2023 🚀</div>  
+### <div align="center">My name is Egor, I a mobile developer 👨‍💻, I have been working remotely since 2023 🚀</div>  
   
 
 - 🌱 I am currently advancing my knowledge in mobile development  

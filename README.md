@@ -1,13 +1,7 @@
 
   
 
-### <div align="center">My name is Egor, I a mobile developer 👨‍💻, I have been working remotely since 2023 🚀</div>  
-  
 
-- 🌱 I am currently advancing my knowledge in mobile development  
-  
-
-- ⚡ Fun fact: I have been programming since I was 15  
   
 
 <br/>  

@@ -1,6 +1,6 @@
-## Egor Bochkarev
+## Egor Bochkarev 
 
-Software Developer
+Software Developer ,more than 2 years in commercial development
 
 Mobile: Flutter / Android
 Backend: Golang / API / Microservices
